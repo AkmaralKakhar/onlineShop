@@ -1,3 +1,9 @@
+
+
+
+
+/* -----------------------------comm */
+
 html {
   overflow-x: hidden;
 }
@@ -476,7 +482,7 @@ a:focus {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
-          flex-direction: column;
+          flex-direction: row;
 }
 
 .gallery_section .img_container .box-1 .b-2 {
